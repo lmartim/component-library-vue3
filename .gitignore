@@ -1,7 +1,11 @@
 .DS_Store
 node_modules
-/dist
 
+dist/styles
+dist/tokens
+dist/icons
+dist/index.js
+dist/index.js.map
 
 # local env files
 .env.local

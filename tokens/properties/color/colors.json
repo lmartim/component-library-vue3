@@ -1,0 +1,70 @@
+{
+  "color": {
+    "success": {
+      "darkest" : {
+        "value": "#004020",
+        "comment": "the darkest sucess color"
+      },
+      "dark" : {
+        "value": "#007339",
+        "comment": "the dark sucess color"
+      },
+      "medium" : {
+        "value": "#00A653",
+        "comment": "the medium sucess color"
+      },
+      "light" : {
+        "value": "#66D19E",
+        "comment": "the light sucess color"
+      },
+      "lightest" : {
+        "value": "#E7F3ED",
+        "comment": "the lightest sucess color"
+      }
+    },
+    "danger": {
+      "darkest" : {
+        "value": "#590000",
+        "comment": "the darkest danger color"
+      },
+      "dark" : {
+        "value": "#B21212",
+        "comment": "the dark danger color"
+      },
+      "medium" : {
+        "value": "#DA2121",
+        "comment": "the medium danger color"
+      },
+      "light" : {
+        "value": "#F27979",
+        "comment": "the light danger color"
+      },
+      "lightest" : {
+        "value": "#FFE5E5",
+        "comment": "the lightest danger color"
+      }
+    },
+    "neutral": {
+      "darkest" : {
+        "value": "#000000",
+        "comment": "the darkest neutral color"
+      },
+      "dark" : {
+        "value": "#737780",
+        "comment": "the dark neutral color"
+      },
+      "medium" : {
+        "value": "#C2C5CC",
+        "comment": "the medium neutral color"
+      },
+      "light" : {
+        "value": "#E1E2E5",
+        "comment": "the light neutral color"
+      },
+      "lightest" : {
+        "value": "#FFFFFF",
+        "comment": "the lightest neutral color"
+      }
+    }
+  }
+}

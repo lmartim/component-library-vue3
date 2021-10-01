@@ -1,0 +1,70 @@
+{
+  "font": {
+    "family": {
+      "body" : {
+        "value": "'Open Sans', sans-serif",
+        "comment": "the body font-family"
+      },
+      "backup" : {
+        "value": "'Roboto', sans-serif",
+        "comment": "the background font-family"
+      }
+    },
+    "size": {
+      "xxxs" : {
+        "value": "12px",
+        "comment": "the xxxs font-size"
+      },
+      "xxs" : {
+        "value": "14px",
+        "comment": "the xxs font-size"
+      },
+      "xs" : {
+        "value": "16px",
+        "comment": "the xs font-size"
+      },
+      "sm" : {
+        "value": "20px",
+        "comment": "the sm font-size"
+      },
+      "md" : {
+        "value": "24px",
+        "comment": "the md font-size"
+      },
+      "lg" : {
+        "value": "32px",
+        "comment": "the lg font-size"
+      },
+      "xl" : {
+        "value": "40px",
+        "comment": "the xl font-size"
+      },
+      "xxl" : {
+        "value": "48px",
+        "comment": "the xxl font-size"
+      }
+    },
+    "weight": {
+      "light" : {
+        "value": "300",
+        "comment": "the light font-weight"
+      },
+      "regular" : {
+        "value": "400",
+        "comment": "the regular font-weight"
+      },
+      "medium" : {
+        "value": "600",
+        "comment": "the medium font-weight"
+      },
+      "bold" : {
+        "value": "700",
+        "comment": "the bold font-weight"
+      },
+      "extrabold" : {
+        "value": "800",
+        "comment": "the extrabold font-weight"
+      }
+    }
+  }
+}

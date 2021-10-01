@@ -1,0 +1,55 @@
+.f-fw {
+  &-light {
+    font-weight: $font-weight-light !important;
+  }
+
+  &-regular {
+    font-weight: $font-weight-regular !important;
+  }
+
+  &-medium {
+    font-weight: $font-weight-medium !important;
+  }
+
+  &-bold {
+    font-weight: $font-weight-bold !important;
+  }
+
+  &-extrabold {
+    font-weight: $font-weight-extrabold !important;
+  }
+}
+
+.f-fs {
+  &-xxxs {
+    font-size: $font-size-xxxs !important;
+  }
+
+  &-xxs {
+    font-size: $font-size-xxs !important;
+  }
+
+  &-xs {
+    font-size: $font-size-xs !important;
+  }
+
+  &-sm {
+    font-size: $font-size-sm !important;
+  }
+
+  &-md {
+    font-size: $font-size-md !important;
+  }
+
+  &-lg {
+    font-size: $font-size-lg !important;
+  }
+
+  &-xl {
+    font-size: $font-size-xl !important;
+  }
+
+  &-xxl {
+    font-size: $font-size-xxl !important;
+  }
+}

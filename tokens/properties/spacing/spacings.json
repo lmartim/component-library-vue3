@@ -1,0 +1,45 @@
+{
+  "spacing": {
+      "quark" : {
+        "value": "4px",
+        "comment": "the quark spacing-inline"
+      },
+      "nano" : {
+        "value": "8px",
+        "comment": "the nano spacing-inline"
+      },
+      "xxxs" : {
+        "value": "16px",
+        "comment": "the xxxs spacing-inline"
+      },
+      "xxs" : {
+        "value": "24px",
+        "comment": "the xxs spacing-inline"
+      },
+      "xs" : {
+        "value": "32px",
+        "comment": "the xs spacing-inline"
+      },
+      "sm" : {
+        "value": "40px",
+        "comment": "the sm spacing-inline"
+      },
+      "md" : {
+        "value": "48px",
+        "comment": "the md spacing-inline"
+      },
+      "lg" : {
+        "value": "56px",
+        "comment": "the lg spacing-inline"
+      },
+      "xl" : {
+        "value": "64px",
+        "comment": "the xl spacing-inline"
+      },
+      "xxl" : {
+        "value": "80px",
+        "comment": "the xxl spacing-inline"
+      }
+    
+  }
+}
